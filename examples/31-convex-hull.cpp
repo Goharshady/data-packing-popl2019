@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <algorithm>
 #include <map>
+#include <cmath>
 using namespace std;
 
 vector<void *> R;
